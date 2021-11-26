@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CAllmeSURAJ
+- 👋 Hi, I’m @SURAJ_WIJEWICKRAMA
 - 👀 I’m interested in All STUFF RELATED TO ICT
 - 🌱 I’m currently learning coding and networking
 - 💞️ I’m looking to collaborate on studing python,java, other languages and projects
